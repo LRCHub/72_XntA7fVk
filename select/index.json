@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "threesixfive",
+  "base_artist": "Nagatomi",
+  "createdAt": "2026-03-08T06:18:06.124577Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Threesixfive",
+      "artist": "Eminem feat. Skam",
+      "has_synced": false,
+      "path": "select/01_Threesixfive_Eminem_feat._Skam.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ThreeSixFive (feat. Oldworldisorder)",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/02_ThreeSixFive_(feat._Oldworldisorder)_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ThreeSixFive (feat. Skam)",
+      "artist": "Eminem",
+      "has_synced": false,
+      "path": "select/03_ThreeSixFive_(feat._Skam)_Eminem.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rare Studio Track 4 (ThreeSixFive) (feat. Skam)",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/04_Rare_Studio_Track_4_(ThreeSixFive)_(feat._Skam)_Eminem.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "threesixfive",
+      "artist": "Nagatomi",
+      "has_synced": false,
+      "path": "select/pl_01_threesixfive_Nagatomi.txt"
+    }
+  ]
+}
